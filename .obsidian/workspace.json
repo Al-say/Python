@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "739b5daf33651221",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e456aaeb775d09a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dce9cbd2da2765f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2410211124朱品赞实验四.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2410211124朱品赞实验四"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c70e55db459a096",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c48accade179366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcb468c4aaeb2aff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "290a55eca59158dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c690ad410373f939",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec97964cca59ef0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a4157d26d03c26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aa5347196368b82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2410211124朱品赞实验三.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2410211124朱品赞实验三 的反向链接列表"
+            }
+          },
+          {
+            "id": "6cdabdb32abf76f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2410211124朱品赞实验三.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2410211124朱品赞实验三 的出链列表"
+            }
+          },
+          {
+            "id": "8da227e084e14ebb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "73c4947d404591b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2410211124朱品赞实验三.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2410211124朱品赞实验三 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "1dce9cbd2da2765f",
+  "lastOpenFiles": [
+    "2410211124朱品赞实验四.pdf",
+    "Pasted image 20251014201640.png",
+    "Pasted image 20251014201606.png",
+    "Pasted image 20251012201738.png",
+    "2410211124朱品赞实验三.md",
+    "2410211124朱品赞实验四.md",
+    "2410211124朱品赞实验三.pdf",
+    "Pasted image 20250926153814.png",
+    "Pasted image 20250926153751.png",
+    "Pasted image 20250926153500.png",
+    "text_3.1.py",
+    "Python程序设计实验三.pdf",
+    "实验模板.md",
+    "Python程序设计实验三.md",
+    "朱品赞实验三报告.md"
+  ]
+}
