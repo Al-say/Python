@@ -6,3 +6,23 @@ seaborn>=0.11.0
 scikit-learn>=1.0.0
 jupyter>=1.0.0
 ipykernel>=6.0.0
+
+# 数据库连接库
+# SQLite - Python内置，无需额外安装
+# MySQL数据库连接
+mysql-connector-python>=8.0.0
+# PostgreSQL数据库连接
+psycopg2-binary>=2.9.0
+# MongoDB数据库连接
+pymongo>=4.0.0
+# SQLAlchemy ORM
+SQLAlchemy>=1.4.0
+
+# 现代化爬虫依赖
+aiohttp>=3.8.0
+beautifulsoup4>=4.11.0
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+fake-useragent>=1.4.0
+lxml>=4.9.0
+requests>=2.31.0

@@ -29,3 +29,13 @@ Thumbs.db
 # 临时文件
 *.tmp
 *.temp
+
+# 数据库文件
+*.db
+*.sqlite
+*.sqlite3
+
+# 爬虫生成的文件
+job_analysis_*.png
+job_report_*.md
+*.log
